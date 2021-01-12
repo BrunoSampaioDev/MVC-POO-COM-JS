@@ -40,13 +40,3 @@ class NegociacoesView extends View{
 
 
 }
-
-
-
-
-
-
-
-
-
-/*  */
